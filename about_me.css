@@ -1,0 +1,22 @@
+.back, a{
+    margin-top: 5px;
+    background-color: lightskyblue;
+    color: white;
+    text-decoration: none;
+    width: 80px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+    text-align: justify;
+    margin-left: 50%;
+}
+.perkenalan{
+    text-align: justify;
+}
+
+body{
+    border: solid 1px;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 400px;
+}
