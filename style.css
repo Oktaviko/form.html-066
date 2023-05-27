@@ -7,6 +7,7 @@
 body {
     text-align: justify;
     font-family: sans-serif;
+    background-image: url(Franco\ Mobile\ Legends\ Wallpaper\ hd.jpeg);
 }
 
 .box {
@@ -18,13 +19,14 @@ body {
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-color: aquamarine;
+    background-color: rgb(224, 29, 29);
 }
 
 section{
+    color: rgb(133, 167, 41);
     text-align: center;
     align-items: center;
-    border: solid royalblue;
+    border: solid rgb(241, 241, 242);
     box-sizing: border-box;
     margin-bottom: 5px;
     padding-bottom: 5px;
@@ -35,7 +37,7 @@ section{
 }
 
 .pendaftaran, a{
-    background-color: aquamarine;
+    background-color: rgb(0, 6, 190);
     color: white;
     text-decoration: none;
     width: 100px;

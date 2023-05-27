@@ -2,6 +2,7 @@ body{
     margin: 0 auto;
     font-family: sans-serif;
     background-color: aliceblue;
+    background-image: url(Granger\ -\ Agent\ \ mlbb\ png\ by\ dechunf\ on\ DeviantArt.png);
 }
 
 form{
@@ -12,7 +13,7 @@ legend{
 }
 .back, a{
     margin-top: 5px;
-    background-color: lightskyblue;
+    background-color: rgb(1, 12, 19);
     color: white;
     text-decoration: none;
     width: 70px;

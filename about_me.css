@@ -1,6 +1,6 @@
 .back, a{
     margin-top: 5px;
-    background-color: lightskyblue;
+    background-color: rgb(2, 17, 26);
     color: white;
     text-decoration: none;
     width: 80px;
@@ -19,4 +19,5 @@ body{
     margin-left: 50%;
     margin-right: 50%;
     width: 400px;
+    background-image: url(download.png);
 }
